@@ -1,31 +1,18 @@
 # Security-Audit-Implementation
 
 ## Objective
-[Brief Objective - Remove this afterwards]
+The primary goal of this project was to assess and improve the security posture of Botium Toys through a comprehensive audit of existing controls and compliance practices. This audit aimed to identify security gaps, propose remediations, and ensure adherence to industry standards and regulatory requirements.
 
-The Detection Lab project aimed to establish a controlled environment for simulating and detecting cyber attacks. The primary focus was to ingest and analyze logs within a Security Information and Event Management (SIEM) system, generating test telemetry to mimic real-world attack scenarios. This hands-on experience was designed to deepen understanding of network security, attack patterns, and defensive strategies.
+## Controls Assessment Checklist
+A detailed evaluation of current security controls was conducted to identify areas for improvement and to ensure the organization's assets and sensitive information are well-protected. Attached is a summary of the key findings:
 
-### Skills Learned
-[Bullet Points - Remove this afterwards]
+## Compliance Checklist
+In addition to the controls, the audit assessed Botium Toys' adherence to compliance standards such as PCI DSS, GDPR, and SOC.
 
-- Advanced understanding of SIEM concepts and practical application.
-- Proficiency in analyzing and interpreting network logs.
-- Ability to generate and recognize attack signatures and patterns.
-- Enhanced knowledge of network protocols and security vulnerabilities.
-- Development of critical thinking and problem-solving skills in cybersecurity.
+## Skills Applied
+- Security Auditing: Conducted a thorough assessment of security controls and compliance with industry standards.
+- Risk Assessment: Identified key security vulnerabilities and compliance gaps, proposing actionable recommendations.
+- Policy Development: Recommended updates to security policies, including password management and data protection strategies.
+- Regulatory Compliance: Evaluated adherence to PCI DSS, GDPR, and SOC, ensuring the organization's practices align with regulatory requirements.
 
-### Tools Used
-[Bullet Points - Remove this afterwards]
-
-- Security Information and Event Management (SIEM) system for log ingestion and analysis.
-- Network analysis tools (such as Wireshark) for capturing and examining network traffic.
-- Telemetry generation tools to create realistic network traffic and attack scenarios.
-
-## Steps
-drag & drop screenshots here or use imgur and reference them using imgsrc
-
-Every screenshot should have some text explaining what the screenshot is about.
-
-Example below.
-
-*Ref 1: Network Diagram*
+## Attached
